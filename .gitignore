@@ -1,0 +1,8 @@
+
+# Ignore Oracle Instant Client zip file
+*.zip
+
+# Ignore other potential temporary files
+__pycache__/
+*.py[cod]
+*.log
